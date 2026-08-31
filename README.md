@@ -3,7 +3,7 @@ Dataset available at: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ### prerequisites:
 1. Python
-2. Spyder IDE (extremely optimised for machine learning & data analysis)
+2. Spyder IDE (Optimised for machine learning & data analysis)
 
 **This project is composed of two main parts:**
 
