@@ -39,7 +39,7 @@ The decision tree classifier was selected for this dataset and is suitable becau
   
 - The decision tree model is defined to have a maximum depth of 10, to control how many splits take place from the root node to the leaf node, to prevent ‘overfitting’, leading to inaccurate predictions for the test set
   
-- There is a class imbalance for variable ‘y’, which is handled here through the ‘class_weight’ parameter 
+- There is a class imbalance for variable ‘y’, which is handled through the ‘class_weight’ parameter 
 
 
 ## Results:
